@@ -1,0 +1,24 @@
+{
+  "name": "flato",
+  "version": "1.0.0",
+  "description": "Object flattener with option to skip arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriyGol/flato.git"
+  },
+  "keywords": [
+    "flatten",
+    "object",
+    "flat"
+  ],
+  "author": "Andriy Goltsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndriyGol/flato/issues"
+  },
+  "homepage": "https://github.com/AndriyGol/flato#readme"
+}
